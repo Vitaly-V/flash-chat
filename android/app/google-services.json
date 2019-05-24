@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "421601695682",
+    "firebase_url": "https://flash-chat-vvn.firebaseio.com",
+    "project_id": "flash-chat-vvn",
+    "storage_bucket": "flash-chat-vvn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421601695682:android:1b0da62dd2ac35d1",
+        "android_client_info": {
+          "package_name": "vitalii.vyrodov.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421601695682-b630tmfrcqtiijai2lqn72s0cttmc6eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1QvPsDlxev-Ckdv7li6wGn4hm6qYbWqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421601695682-b630tmfrcqtiijai2lqn72s0cttmc6eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
